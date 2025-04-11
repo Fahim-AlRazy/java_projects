@@ -1,4 +1,4 @@
-/* Ultimate Java Basics Mastery Problem: "Banking System Simulator"
+/* Ultimate Java Basics Mastery Problem Banking System Simulator
 This problem is more advanced and structured than the Student Management System,
  covering all essential Java concepts in a practical, real-world scenario.
 

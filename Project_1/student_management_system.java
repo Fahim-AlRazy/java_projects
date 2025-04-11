@@ -1,4 +1,4 @@
-/*Ultimate Java Basics Practice Problem: "Student Management System"
+/*Ultimate Java Basics Practice Problem: Student Management System
 This problem covers variables, loops, conditionals, arrays, strings,
  methods, classes, objects, and file handling—all in one go.
 
